@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/ellehacks2020/precache-manifest.6f00f9887b5aadc57474c5b93ea74a9b.js"
+  "/ellehacks2020/precache-manifest.ece7d15e668ea52799aef878b6ef52ae.js"
 );
 
 self.addEventListener('message', (event) => {
